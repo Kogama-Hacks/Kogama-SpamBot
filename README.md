@@ -8,7 +8,7 @@ Preview (version 1.0):
 - Added ability to spam-comment on profile posts (see [#How to use](./README.md#user-content-new1))
 - Added a question to decide whether it should log out if CTRL+C is pressed or not (see [#How to use](./README.md#user-content-new2))
 
-<span onclick="javascript:x=document.getElementById('user-content-new1');x.innerHTML='<u>'+x.innerHTML+'</u>'">test</span>
+<span onclick="javascript:void(x=document.getElementById('user-content-new1');x.innerHTML='<u>'+x.innerHTML+'</u>')">test</span>
 ## Download
 To download, click "releases" on the right side of your screen, then scroll to the version you want to download.
 On the versions, you will see 5 files:
