@@ -5,8 +5,8 @@ Preview (version 1.0):
 ![Preview 1.0](https://i.imgur.com/sDgwrMD.png)
 
 ## What's new in v1.1?
-- Added ability to spam-comment on profile posts (see [#How to use](./README.md#How-to-use-new1))
-- Added a question to decide whether it should log out if CTRL+C is pressed or not (see [#How to use](./README.md#How-to-use-new2))
+- Added ability to spam-comment on profile posts (see [#How to use](./README.md#user-content-new1))
+- Added a question to decide whether it should log out if CTRL+C is pressed or not (see [#How to use](./README.md#user-content-new2))
 
 ## Download
 To download, click "releases" on the right side of your screen, then scroll to the version you want to download.
