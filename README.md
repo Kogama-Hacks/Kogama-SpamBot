@@ -31,7 +31,7 @@ Examples:
 136436 - game ID
 a-453235 - avatar ID
 i-557743 - model ID
-##### New:
+*New:*
 p-355433 - profile post ID
 
 *Note: commenting on avatars and models works only if that avatar/model is sold.*
@@ -40,7 +40,7 @@ After that, it will ask you which text it should write in the comments. Type in 
 
 Then, enter your kogama username and password (they are required because the script will login with that account data to be able to write comments).
 
-##### New:
+*New:*
 It will then ask you if it should log out the account when it gets crashed by pressing CTRL+C in the program window. If you write `1` it will do so, if you write anything else (e.g. `4ettrd` or `​`), it will not.
 
 Now it will spam comments.
