@@ -5,8 +5,8 @@ Preview (version 1.0):
 ![Preview 1.0](https://i.imgur.com/sDgwrMD.png)
 
 ## What's new in v1.1?
-- Added ability to spam-comment on profile posts (see [#How to use](./README.md#How-to-use))
-- Added a question to decide whether it should log out if CTRL+C is pressed or not (see [#How to use](./README.md#How-to-use))
+- Added ability to spam-comment on profile posts (see [#How to use](./README.md#How-to-use-new1))
+- Added a question to decide whether it should log out if CTRL+C is pressed or not (see [#How to use](./README.md#How-to-use-new2))
 
 ## Download
 To download, click "releases" on the right side of your screen, then scroll to the version you want to download.
@@ -31,7 +31,7 @@ Examples:
 136436 - game ID
 a-453235 - avatar ID
 i-557743 - model ID
-*New:*
+*New:* <span id="new1"></span>
 p-355433 - profile post ID
 
 *Note: commenting on avatars and models works only if that avatar/model is sold.*
@@ -40,7 +40,7 @@ After that, it will ask you which text it should write in the comments. Type in 
 
 Then, enter your kogama username and password (they are required because the script will login with that account data to be able to write comments).
 
-*New:*
+*New:* <span id="new2"></span>
 It will then ask you if it should log out the account when it gets crashed by pressing CTRL+C in the program window. If you write `1` it will do so, if you write anything else (e.g. `4ettrd` or `​`), it will not.
 
 Now it will spam comments.
